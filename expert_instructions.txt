@@ -1,0 +1,43 @@
+*Het Projectdoel en de Patiëntengroep*
+
+Het project richt zich op de patiëntengroep die klachten heeft over een *versleten knie* (artrose). Het uiteindelijke doel is om een systeem te ontwikkelen dat bepaalt of een versleten knie behandeld dan wel geopereerd moet worden. Dit systeem zou een alternatief kunnen zijn voor bestaande, dure geautomatiseerde programma's die Isala Ziekenhuizen wegens kosten heeft afgestoten,.
+
+*Huidige Behandelwijze en Besluitvorming*
+
+Bij patiënten met een versleten knie wordt op de polikliniek eerst een uitgebreid vraaggesprek gevoerd over de duur en aard van de klachten, onmogelijk geworden activiteiten, en eerdere behandelingen. De orthopedie hanteert vaak het principe van *'shared decision making'*, waarbij de arts samen met de patiënt (en eventuele partner) de beste behandelmogelijkheid bespreekt.
+
+Er zijn vier behandelopties voor knieartrose die stapsgewijs worden doorlopen,:
+
+1.  *Leefstijl en uitleg:* Dit omvat uitleg, aanpassing van leefstijl, goed in beweging blijven, en afvallen.
+2.  *Pijnstillers:* Gebruik van paracetamol, of eventueel ontstekingsremmende pijnstillers zoals ibuprofen of naproxen. De voorkeur gaat uit naar functioneren met paracetamol vanwege de minder bijwerkingen ten opzichte van ontstekingsremmers,.
+3.  *Injecties:* Injecties in de knie met een ontstekingsremmer en/of een gel (een soort glijmiddel).
+4.  *Operatie:* Als de vorige stappen niet helpen en de patiënt veel beperkingen ervaart, komt een kunstknieoperatie in aanmerking.
+
+Het vermijden van de operatietafel door middel van niet-operatieve maatregelen (fysiotherapie, afvallen, pijnstilling, injecties) heeft altijd de voorkeur boven een operatie.
+
+*PROMs en de Beslisboom*
+
+Gestandaardiseerde vragenlijsten, bekend als *PROMs* (Patient Reported Outcome Measures), worden al gebruikt om de beste behandeloptie te bepalen en de effectiviteit van de behandeling te evalueren,. Dr. Luning raadt aan om te zoeken op de trefwoorden "PROMs" en "artrose" om het huiswerk te beginnen,. Deze PROMs worden vaak gebruikt vóórdat de patiënt in de spreekkamer komt, om alvast een overzicht te krijgen van de beperkingen.
+
+De partijen zijn het erover eens dat de PROMs een *goede basis* kunnen vormen voor hun project. Het project vereist 1000 'knowledge elements' (regels en feiten), wat duidt op de ontwikkeling van een complexe beslisboom waarin regels worden gecombineerd om tot conclusies te komen, die op hun beurt weer tot andere conclusies leiden,. De beslissing over de behandeling is niet altijd zwart-wit.
+
+*Factoren die Meespelen bij de Besluitvorming*
+
+Diverse factoren spelen een rol bij de keuze voor een behandeling, naast de subjectieve klachten:
+*   *Pijnscore:* Dit wordt vaak aangegeven op een Visual Analog Scale (VAS), waarbij 0 geen pijn is en 10 onaanvaardbare pijn,.
+*   *Eerdere behandelingen:* De vraag of er al iets aan de klachten is gedaan.
+*   *BMI*.
+*   *Complicaties:* De arts is wettelijk verplicht de patiënt te informeren over mogelijke complicaties van de operatie,,.
+*   *Röntgenfoto's:* De bevindingen op röntgenfoto’s (rundgefoto's) spelen mee en worden ingedeeld in vier gradaties van slijtage.
+
+*Patiëntenvoorlichting*
+
+Het is belangrijk dat patiënten, hoewel vaak ouderen, goed voorbereid zijn op het consult. Dr. Luning adviseert de Isala patiëntenfolders over knieartrose te raadplegen (te vinden via www.isala patiëntenfolders artrose van de knie),. Het lezen van deze folders voor het consult zorgt voor een gelijkwaardiger gesprek,. Een minimale mate van intelligentie is ook nodig voor een succesvolle operatie.
+
+*Volgende Stappen*
+
+Het team zal zich eerst verdiepen in de PROMs om de basis voor het project te leggen,. De volgende afspraak staat gepland op woensdag, 19:00 uur Nederlandse tijd,. De opdrachten voor het AI-vak zijn complex, waarbij de scriptie-achtige taken pas eind januari af moeten zijn. Er wordt opgemerkt dat de benadering van slijtage van de heup (artrose) grotendeels hetzelfde is als die van de knie.
+
+*
+
+Het besprokene kan worden gezien als het leggen van de fundamenten voor een diagnose- en behandelingssysteem, waarbij de gestandaardiseerde vragenlijsten (PROMs) dienen als de eerste bouwstenen, vergelijkbaar met het gebruik van een reeds bestaande blauwdruk die de belangrijkste structurele elementen van het ontwerp al vastlegt.
